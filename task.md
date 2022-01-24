@@ -29,3 +29,13 @@
 
 4 Git clone url  копирует все данные в локальный репозиторий с сохранением струтуры данных
 
+fdsghdzfg
+sdfrg
+sdfg
+sd
+fg
+sd
+fg
+sd
+g
+sgfsdfgs
